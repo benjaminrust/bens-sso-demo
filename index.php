@@ -34,30 +34,30 @@
         <div class="element-middle">
           <img class="logo" src="images/ASME_logotype.png" alt="Fix">
           <br>
-          <span class="logo-text">Fine Coffee Kits</span>
+          <span class="logo-text">ASME, The American Society of Mechanical Engineers</span>
         </div>
         <div class="element-right">
         </div>
       </div>
     </header>
     <section class="textured-section">
-      <h1>Curated Coffee Components</h1>
+      <h1>Setting the Standard</h1>
       
 
       <ul class="products">
         <li>
           <img class="product-image" src="images/products/071715_Heroku_3270-.jpg" alt="">
-          <h3 class="product-name">AeroPress Coffee Maker</h3>
+          <h3 class="product-name">Standards</h3>
           <div class="product-button"><a id="aero_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login for more info</a></div>
         </li>
         <li>
           <img class="product-image" src="images/products/071715_Heroku_3263-.jpg" alt="">
-          <h3 class="product-name">MSR Reactor 2.5L Stove System</h3>          
+          <h3 class="product-name">Standards</h3>          
           <div class="product-button"><a id="reactor_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login for more info</a></div>
         </li>
         <li>
           <img class="product-image" src="images/products/071715_Heroku_3302.jpg" alt="">
-          <h3 class="product-name">Chemex Classic 6-cup Coffee Maker</h3>
+          <h3 class="product-name">Standards</h3>
           <div class="product-button"><a id="chemex_link" class="btn btn-hot" href="#" onclick="SFIDWidget.login()">Login for more info</a></div>
         </li>
       </ul>
