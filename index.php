@@ -32,7 +32,7 @@
       <div class="masthead-elements-row-1">
         <div class="element-left"></div>
         <div class="element-middle">
-          <img class="logo" src="images/ASME_logotype.png" alt="Fix">
+          <img class="logo" src="images/ASME_logotype.png" alt="ASME">
           <br>
           <span class="logo-text">ASME, The American Society of Mechanical Engineers</span>
         </div>
